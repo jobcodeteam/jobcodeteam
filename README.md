@@ -5,7 +5,7 @@
   <img alt="Jobcode Banner" height="400" width="660" src="https://avatars.githubusercontent.com/u/206195260?v=4">
 </div>
 
-
+---
 <p align="center">
   Your trusted partner for <strong>career updates</strong>, <strong>job notifications</strong>, and everything in between <br> — proudly based in <em>Siliguri, West Bengal</em>.  
   <br> We're here to help <strong>job seekers</strong> like you stay a step ahead in today's competitive market.
