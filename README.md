@@ -36,27 +36,56 @@
 <hr>
 
 <h2>🌍 <strong>Join Our Community</strong></h2>
-<div align="left" style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px;">
 
-  <a href="https://t.me/jobcodeteam" target="_blank" style="background-color: #229ED9; border-radius: 12px; padding: 10px; display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="32" width="32" />
+<div align="left" style="display: flex; gap: 28px; flex-wrap: wrap; margin-bottom: 20px;">
+
+  <!-- WhatsApp -->
+  <a href="https://chat.whatsapp.com/K3s1O1LRcFMGV5esEGLvKa" target="_blank" style="background-color: #25D366; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" height="32" width="32" /><span>__</span>
   </a>
 
-  <a href="https://chat.whatsapp.com/K3s1O1LRcFMGV5esEGLvKa" target="_blank" style="background-color: #25D366; border-radius: 12px; padding: 10px; display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" height="32" width="32" />
+  <!-- Gmail -->
+  <a href="mailto:jobcodeteam@gmail.com" target="_blank" style="background-color: #D14836; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="32" width="32" /><span>__</span>
   </a>
 
-  <a href="mailto:jobcodeteam@gmail.com" target="_blank" style="background-color: #D14836; border-radius: 12px; padding: 10px; display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="32" width="32" />
+  <!-- Company Page -->
+  <a href="https://jobcode.in/company/jobcodeteam" target="_blank" style="background-color: #4A90E2; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Company Page" height="32" width="32" /><span>__</span>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/company/jobcodeteam" target="_blank" style="background-color: #0077B5; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" width="32" /><span>__</span>
+  </a>
+  
+
+  <!-- Website -->
+  <a href="https://jobcode.in" target="_blank" style="background-color: #000000; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website" height="32" width="32" /><span>__</span>
   </a>
 
-  <a href="https://jobcode.in/company/jobcodeteam" target="_blank" style="background-color: #4A90E2; border-radius: 12px; padding: 10px; display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Company Page" height="32" width="32" />
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@jobcodeteam" target="_blank" style="background-color: #FF0000; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="32" width="32" /><span>__</span>
   </a>
 
-  <a href="https://jobcode.in" target="_blank" style="background-color: #000000; border-radius: 12px; padding: 10px; display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Website" height="32" width="32" />
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/jobcodeteam/" target="_blank" style="background-color: #E1306C; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="32" width="32" /><span>__</span>
   </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/jobcodeteam" target="_blank" style="background-color: #1877F2; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="32" width="32" /><span>__</span>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/jobcodeteam" target="_blank" style="background-color: #1DA1F2; border-radius: 12px; padding: 12px; display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="32" width="32" />
+  </a>
+
+  
 
 </div>
 
